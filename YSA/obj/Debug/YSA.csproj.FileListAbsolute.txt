@@ -1,0 +1,9 @@
+C:\Users\PC\Documents\YandexDiskYedek\YandexDisk\AR-GE\YSA\YSA\bin\Debug\YSA.exe.config
+C:\Users\PC\Documents\YandexDiskYedek\YandexDisk\AR-GE\YSA\YSA\obj\Debug\YSA.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\YandexDiskYedek\YandexDisk\AR-GE\YSA\YSA\obj\Debug\YSA.Form1.resources
+C:\Users\PC\Documents\YandexDiskYedek\YandexDisk\AR-GE\YSA\YSA\obj\Debug\YSA.Properties.Resources.resources
+C:\Users\PC\Documents\YandexDiskYedek\YandexDisk\AR-GE\YSA\YSA\obj\Debug\YSA.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\YandexDiskYedek\YandexDisk\AR-GE\YSA\YSA\bin\Debug\YSA.exe
+C:\Users\PC\Documents\YandexDiskYedek\YandexDisk\AR-GE\YSA\YSA\bin\Debug\YSA.pdb
+C:\Users\PC\Documents\YandexDiskYedek\YandexDisk\AR-GE\YSA\YSA\obj\Debug\YSA.exe
+C:\Users\PC\Documents\YandexDiskYedek\YandexDisk\AR-GE\YSA\YSA\obj\Debug\YSA.pdb
